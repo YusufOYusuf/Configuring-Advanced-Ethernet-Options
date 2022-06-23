@@ -15,7 +15,7 @@ In this lab, I configured advanced Ethernet options for a network connection. Th
 
 <p align="center">
 Right click the start menu and open control panel: <br/>
-<img src="https://i.postimg.cc/9f2wCHW0/Screen-Shot-2022-06-17-at-2-30-27-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/qB3NVGYm/Screen-Shot-2022-06-22-at-8-27-15-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
@@ -42,7 +42,7 @@ From the left side of the Network and Sharing Center window, click change adapte
   
 <br />
 In the Network Connections window, right-click Ethernet0 and select properties:  <br/>
-<img src="https://i.postimg.cc/d19kNHdX/Screen-Shot-2022-06-17-at-3-02-04-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/kM2TrDxJ/Screen-Shot-2022-06-22-at-8-30-17-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
